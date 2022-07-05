@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>Estou desenvolvendo javascript e gifthub.</strong>
 </p>
 
 <p align="left">
